@@ -7,7 +7,7 @@ excerpt: In graphic design, a pull quote (also known as a lift-out pull quote) i
 
 ![test](/home/mcramer/Pictures/personal/me.jpg")
 test
-
+rdnterd
 teret
 
 
