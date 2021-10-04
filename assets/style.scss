@@ -23,7 +23,7 @@ html {
 body {
   background: #2e3440;
   font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  color: #404040;
+  color: #8fbcbb;
   line-height: 1.7;
   font-weight: 400;
   font-size: 18px;
@@ -81,7 +81,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: #222;
+  color: #d8dee9;
 }
 
 p {
@@ -153,7 +153,7 @@ table tr td :last-child {
 
 .share-box {
   font-weight: bold;
-  color: #222;
+  color: #2e3440;
 }
 
 span[data-pullquote] {
@@ -237,11 +237,11 @@ p > img {
 // Specify the color of the selection
 ::-moz-selection {
   color: $black;
-  background: $lightGray;
+  background: #ebcb8b;
 }
 ::selection {
   color: $black;
-  background: $lightGray;
+  background: #ebcb8b;
 }
 
 // Nicolas Gallagher's micro clearfix hack
