@@ -1,5 +1,3 @@
-<div style="background-color: #000000">
-
 ~~~
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
@@ -54,4 +52,3 @@ eOWyot88tzU2U44=
 =1hEK
 -----END PGP PUBLIC KEY BLOCK-----
 ~~~
-</div>
