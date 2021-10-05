@@ -10,7 +10,7 @@ permalink: /showcase/
 <br/>
 <br/>
 
-[![](/images/small/frame-017.jpg)](/images/small/frame-017.jpg)
+[![](/images/small/frame-017.jpg)](/images/large/frame-017.jpg)
 
 <br/>
 <br/>
@@ -26,7 +26,7 @@ permalink: /showcase/
 <br/>
 <br/>
 
-[![](/images/small/frame-014.jpg)](/images/small/frame-014.jpg)
+[![](/images/small/frame-014.jpg)](/images/large/frame-014.jpg)
 
 <br/>
 <br/>
@@ -42,7 +42,7 @@ permalink: /showcase/
 <br/>
 <br/>
 
-[![](/images/small/frame-011.jpg)](/images/small/frame-011.jpg)
+[![](/images/small/frame-011.jpg)](/images/large/frame-011.jpg)
 
 <br/>
 <br/>
@@ -58,7 +58,7 @@ permalink: /showcase/
 <br/>
 <br/>
 
-[![](/images/small/frame-013.jpg)](/images/small/frame-013.jpg)
+[![](/images/small/frame-013.jpg)](/images/large/frame-013.jpg)
 
 <br/>
 <br/>
@@ -74,7 +74,7 @@ permalink: /showcase/
 <br/>
 <br/>
 
-[![](/images/small/frame-016.jpg)](/images/small/frame-016.jpg)
+[![](/images/small/frame-016.jpg)](/images/large/frame-016.jpg)
 
 <br/>
 <br/>
