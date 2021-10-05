@@ -3,8 +3,6 @@ layout: page
 title: Showcase
 permalink: /showcase/
 ---
-{% include my-gallery.html folder="/images/large" %}
-
 
 ### kapillarsystem i
 
