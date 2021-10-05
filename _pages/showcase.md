@@ -18,24 +18,12 @@ permalink: /showcase/
 <br/>
 <br/>
 
-
-
-<br/>
-<br/>
-<br/>
-
 [![](/images/small/frame-014.jpg)](/images/large/frame-014.jpg)
 ### kapillarsystem ii
 
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-
-
-
 <br/>
 <br/>
 <br/>
@@ -50,24 +38,12 @@ permalink: /showcase/
 <br/>
 <br/>
 
-
-
-<br/>
-<br/>
-<br/>
-
 [![](/images/small/frame-013.jpg)](/images/large/frame-013.jpg)
 ### kapillarsystem vi
 
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-
-
-
 <br/>
 <br/>
 <br/>
