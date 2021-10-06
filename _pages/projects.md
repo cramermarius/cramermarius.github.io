@@ -11,7 +11,7 @@ An arctic, north-bluish clean and elegant Vim theme. Now with slightly more foli
 
 <br/>
 
-~[](/images/forest-nord-vim.png)
+![](/images/forest-nord-vim.png)
 
 <br/>
 
@@ -31,7 +31,7 @@ A small collection of rofi scripts to manage some basic utilities like the follo
 
 <br/>
 
-~[](/images/rofi-menus.png)
+![](/images/rofi-menus.png)
 
 <br/>
 
