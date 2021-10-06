@@ -14,6 +14,12 @@ I'm also a film photographer, does that contradict the previous sentence?
 
 Maybe, you decide.
 
+<br/>
 
+other trivia points about me:
+* [Nord theme](https://www.nordtheme.com/) is my absolute favorite theme!
+* vim > emacs
+* tabs > spaces
+* I am learning [Colemak](https://colemak.com/)
 
 PS: vim enthusiasts, gather!
