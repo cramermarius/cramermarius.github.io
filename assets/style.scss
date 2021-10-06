@@ -21,7 +21,7 @@ html {
 }
 
 body {
-  background: #eee;
+  background: #dee8d9;
   font-family: "Fabbrica";
   color: #2e3440;
   line-height: 1.7;
@@ -39,7 +39,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Fabbrica";
-  color: $darkerGray;
+  color: #2e3440;
   font-weight: bold;
 
   line-height: 1.7;
@@ -1142,3 +1142,8 @@ Modules - reusable parts of our design
 //@import "highlights";
 @import "darcula";
 @import "svg-icons";
+
+@font-face {
+	font-family: "Fabbrica";
+	src: url("{{ site.url }}/fonts/Fabbrica");
+}
