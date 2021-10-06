@@ -36,3 +36,13 @@ A small collection of rofi scripts to manage some basic utilities like the follo
 <br/>
 
 Go check it out on [GitHub!](https://github.com/cramermarius/rofi-menus)
+
+<br/>
+<br/>
+
+## iosevka-karakum
+
+This is a custom variant of the very cool Iosevka font. You can create your very own
+version [here!](https://typeof.net/Iosevka/customizer)
+
+Go check mine out on [GitHub!](https://github.com/cramermarius/iosevka-karakum)
