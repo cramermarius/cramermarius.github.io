@@ -4,6 +4,8 @@ title: Showcase
 permalink: /showcase/
 ---
 
+click an image to view a hi-res version. zoom in, the detail in some images is astounding!
+
 <br/>
 <br/>
 <br/>
