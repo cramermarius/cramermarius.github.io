@@ -4,6 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
+# coding stuff
 
 ## forest-nord-vim
 
@@ -42,7 +43,7 @@ Go check it out on [GitHub!](https://github.com/cramermarius/rofi-menus)
 
 ## iosevka-karakum
 
-This is a custom variant of the very cool Iosevka font. You can create your very own
+This is a custom variant of the fantastic Iosevka font. You can create your very own
 version [here!](https://typeof.net/Iosevka/customizer)
 
 Go check mine out on [GitHub!](https://github.com/cramermarius/iosevka-karakum)
