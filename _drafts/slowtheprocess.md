@@ -1,10 +1,10 @@
 ---
 layout: post
-title: slow the process
+title: Slow the process
 ---
 
 In recent times I am noticing a recurring theme around me, in my peers and myself, in
-strangers and my family. This blog is about the concept of *emphasizing the process*. It's
+strangers and my family. This essay is about the concept of *emphasizing the process*. It's
 about why we should slow down.
 
 ## The Problem
@@ -18,21 +18,27 @@ unhealthy nature of this relationship. Nobody taught any of them how to properly
 with mobile phones, the internet, social media or how to deal with online friendships.
 It's become the new normal to spend upwards of ten hours on social media, to neglect AFK [0]
 relationships and to become immersed in the digital realm, ~~for better or for worse~~ for
-worse. How can we help affected people? How can we teach them a responsible behavior when
-it comes to everything digital?
+worse. To me it seems like the value of physical, interpersonal relationships that allow
+migration of deeper emotions and feelings between both persons has diminished greatly in
+tha last few years. Is this only caused by (anti-) social media and ever-progressing
+digitalisation? I don't know, I have not done or read any research on this topic at all,
+this is a total anecdote piece and of no significant value. This essay is mostly my way of
+processing these thoughts, really. The issue and its many questions remain, however: how
+can we help affected people? How can we teach ~~young~~ people a responsible and healthy
+behavior when it comes to (anti-) social media, to virtual relationships, well, to the new
+digital world at the hands of everyone priviledged enough to be able to read this essay
+probably on their phone at the coffee table? (I know, that's going off to another
+unrelated [or is it?] tangent)
 
 <br/>
+
+
+## The Solution?
 
 I believe to regain control over our health, over our addiction to phones, to social media
 and to the surge of dopamine we get when a bot likes our 120th #foodporn post on one of
 evil Zuck's platforms, we need to disconnect ourselves from the fast-paced, ad-driven and
 commercialised-to-the-brim-and-above world that encouraged this kind of behaviour.
-### TODO: FIX: what the fuck kinda sentence is that
-
-
-
-## The Solution?
-
 
 
 
