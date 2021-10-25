@@ -15,10 +15,9 @@ I'm also a film photographer, does that contradict the previous sentence?
 Maybe, you decide.
 
 
-#### Are you a real hacker???
-No, no I'm not. That is, I'm not a security researcher, a white hat nor a black hat.
+#### Curious mind/hacker
 According to Paul Graham, co-founder of YC, a hacker is a disobedient individual, someone
-that doesn't take a NO, be it from an idea inside their head, a physical lock or a system
+that doesn't take a no, be it from an idea inside their head, a physical lock or a system
 admin. They possess an attitude of disobediance and an insatiable intellectual curiosity,
 a hunger for knowledge of systems and their inner workings, be it an operating system or
 something else.
