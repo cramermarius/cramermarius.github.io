@@ -49,8 +49,6 @@ modern, digital version of it.
 
 
 
-
-
 [0] I prefer the acronym AFK (away from keyboard) to IRL (in real life) because the latter
 suggests the digital world to be utterly disconnected from *real life*, which might've
 been true ten or 15 years ago but certainly not anymore. Today, the term AFK seems a lot
