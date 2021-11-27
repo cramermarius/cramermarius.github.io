@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /keybase.txt/
+permalink: /keybase.txt
 ---
 
 ==================================================================
