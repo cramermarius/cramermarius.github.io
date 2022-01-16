@@ -17,9 +17,9 @@ Maybe, you decide.
 In the words of Moxie Marlinspike, whom I look upto for his free mind, his adventurous
 life and definitive focus on privacy and anonymity:
 
-> I like computer security and software development, particularly in the areas
-> of secure protocols, cryptography, privacy, and anonymity. But I also secretly
-> hate technology.
+`I like computer security and software development, particularly in the areas`
+` of secure protocols, cryptography, privacy, and anonymity. But I also secretly`
+` hate technology.`
 
 <br/>
 
@@ -28,5 +28,3 @@ other trivia points about me:
 * vim > emacs
 * tabs > spaces
 * I am ~~learning~~ using [Colemak](https://colemak.com/)
-
-PS: vim enthusiasts, gather!
