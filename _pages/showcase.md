@@ -30,7 +30,7 @@ click an image to view a hi-res version. zoom in, the detail in some images is a
 <br/>
 <br/>
 
-[![](/images/small/frame-009.jpg)](/images/large/frame-009.jpg)
+[![](/images/small/frame-015.jpg)](/images/large/frame-015.jpg)
 ### kapillarsystem iib
 
 <br/>
@@ -39,18 +39,6 @@ click an image to view a hi-res version. zoom in, the detail in some images is a
 <br/>
 <br/>
 <br/>
-
-[![](/images/small/frame-015.jpg)](/images/large/frame-015.jpg)
-### kapillarsystem iic
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-
 
 [![](/images/small/frame-012.jpg)](/images/large/frame-012.jpg)
 ### kapillarsystem iii
