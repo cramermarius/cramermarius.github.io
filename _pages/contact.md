@@ -4,6 +4,6 @@ title: Contact
 permalink: /contact/
 ---
 
-{0}@pm.me where {0} = marcramer
+{0}@cramer.tech where {0} = marius
 
-PGP Key: [fingerprint: 8E4814F898752644C54F85585870E81E33A04C11](/pgp.md)
+PGP Key: [fingerprint: 078DD15E864C56DEC2AC7ABC99C89F712A885DAE](/pgp.md)
