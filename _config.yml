@@ -16,6 +16,7 @@ avatar: /images/me-2.jpg
 #
 # Flags below are optional
 #
+theme: no-style-please
 
 # Includes an icon in the footer for each username you enter
 footer-links:
