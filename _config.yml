@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: marius cramer
+name: marius
 
 # Name of the author
 author: marius
@@ -12,8 +12,6 @@ author: marius
 description: photographer and curious mind
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/me-2.jpg
-#
 # Flags below are optional
 #
 remote_theme: riggraz/no-style-please
@@ -21,10 +19,10 @@ remote_theme: riggraz/no-style-please
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: marcramer@pm.me
+  email: marius@cramer.tech
   facebook:
   flickr:
-  github: cramermarius
+  github: kataklasm
   instagram:
   linkedin:
   pinterest:
