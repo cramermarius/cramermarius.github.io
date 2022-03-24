@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Showcase
-permalink: /showcase/
+title: stills
+permalink: /stills/
 ---
 
 click an image to view a hi-res version. zoom in, the detail in some images is astounding!
@@ -122,16 +122,6 @@ click an image to view a hi-res version. zoom in, the detail in some images is a
 
 [![](/images/small/frame-001.jpg)](/images/large/frame-001.jpg)
 ### kapillarsystem xi
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-[![](/images/small/frame-007.jpg)](/images/large/frame-007.jpg)
-### kapillarsystem xii
 
 <br/>
 <br/>

@@ -1,11 +1,12 @@
 ---
 layout: page
-title: About
+title: about
 permalink: /about/
 ---
 
 ## I'm Marius!
 
+![]{/images/small/me-4.jpg}
 Currently enrolled for aerospace engineering.
 I tend to like tech, although not necessarily the overly capitalist parts of it, more so
 the technical, engineering-related parts, if you will.
