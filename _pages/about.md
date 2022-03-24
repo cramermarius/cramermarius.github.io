@@ -24,7 +24,7 @@ life and definitive focus on privacy and anonymity:
 
 other trivia points about me:
 * [Nord theme](https://www.nordtheme.com/) is my absolute favorite theme!
-![Nord theme](/images/small/nord-theme.png)
+![Nord theme](/images/small/nord-theme.jpg)
 * vim > emacs
 * tabs > spaces
 * I am ~~learning~~ using [Colemak](https://colemak.com/)
