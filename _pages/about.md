@@ -6,7 +6,7 @@ permalink: /about/
 
 ## I'm Marius!
 
-![](/images/small/me-4.jpg)
+<img src="/images/small/me-3.jpg" alt="avatar" width="200"/>
 Currently enrolled for aerospace engineering.
 I tend to like tech, although not necessarily the overly capitalist parts of it, more so
 the technical, engineering-related parts, if you will.
