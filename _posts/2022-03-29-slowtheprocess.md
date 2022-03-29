@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Slow the process
+title: slow the process
 ---
 
 In recent times I am noticing a recurring theme around me, in my peers and myself, in
@@ -38,7 +38,6 @@ I believe to regain control over our health, over our addiction to phones, to so
 and to the surge of dopamine we get when a bot likes our 120th #foodporn post on one of
 evil Zuck's platforms, we need to disconnect ourselves from the fast-paced, ad-driven and
 commercialised-to-the-brim-and-above world that encouraged this kind of behaviour.
-
 My older brother, a whole twelve years wiser than me, got me into photography early on,
 specifically analog photography. A lot of people think analog photography, or anything
 analog for that matter, has been dead for a long time. Think vinyls, physical books, oil
@@ -46,8 +45,11 @@ painting, analog photography and whatever else you can think of. For every (let'
 hobby and activity that people engage in I believe there is an analog equivalent to the
 modern, digital version of it.
 
+<br/>
 
+more to come here...
 
+<br/>
 
 [0] I prefer the acronym AFK (away from keyboard) to IRL (in real life) because the latter
 suggests the digital world to be utterly disconnected from *real life*, which might've

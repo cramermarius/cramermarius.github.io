@@ -7,6 +7,9 @@ permalink: /about/
 ## i'm marius!
 
 <img src="/images/small/me-4.jpg" alt="avatar" width="250"/>
+
+<br/>
+
 Currently enrolled for aerospace engineering.
 I tend to like tech, although not necessarily the overly capitalist parts of it, more so
 the technical, engineering-related parts, if you will.
@@ -31,4 +34,3 @@ other trivia points about me:
 <br/>
 
 [0] ![Nord theme](/images/small/nord-theme.jpg)
-[0] <img src="/images/small/nord-theme.jpg" alt="nord-theme-demo" width="500"/>
