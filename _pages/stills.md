@@ -1,6 +1,6 @@
 ---
 layout: page
-title stills
+title: stills
 permalink: /stills/
 ---
 
