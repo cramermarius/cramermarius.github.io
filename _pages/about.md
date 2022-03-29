@@ -6,8 +6,6 @@ permalink: /about/
 
 ## i'm marius!
 
-<img src="/images/small/me-4.jpg" alt="avatar" width="250"/>
-
 <br/>
 
 Currently enrolled for aerospace engineering.
