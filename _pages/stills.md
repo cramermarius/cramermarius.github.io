@@ -28,14 +28,14 @@ all shot on film.
 <br/>
 <br/>
 
-<img src="/images/small/frame-005.jpg" alt="Drawing" style="width: 100%;"/>
+<img src="/images/small/image-005.jpg" alt="Drawing" style="width: 100%;"/>
 
 <br/>
 <br/>
 <br/>
 <br/>
 
-<img src="/images/small/frame-004.jpg" alt="Drawing" style="width: 100%;"/>
+<img src="/images/small/image-004.jpg" alt="Drawing" style="width: 100%;"/>
 
 <br/>
 <br/>
@@ -84,21 +84,28 @@ all shot on film.
 <br/>
 <br/>
 
-<img src="/images/small/frame-018.jpg" alt="Drawing" style="width: 100%;"/>
+<img src="/images/small/image-018.jpg" alt="Drawing" style="width: 100%;"/>
 
 <br/>
 <br/>
 <br/>
 <br/>
 
-<img src="/images/small/image-007.jpg" alt="Drawing" style="width: 100%;"/>
+<img src="/images/small/image-017.jpg" alt="Drawing" style="width: 100%;"/>
 
 <br/>
 <br/>
 <br/>
 <br/>
 
-<img src="/images/small/frame-016.jpg" alt="Drawing" style="width: 100%;"/>
+<img src="/images/small/image-006.jpg" alt="Drawing" style="width: 100%;"/>
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+<img src="/images/small/frame-015.jpg" alt="Drawing" style="width: 100%;"/>
 
 <br/>
 <br/>
