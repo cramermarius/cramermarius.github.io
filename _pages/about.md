@@ -13,8 +13,7 @@ I tend to like tech, although not necessarily the overly capitalist parts of it,
 the technical, engineering-related parts, if you will.
 I'm also a film photographer, does that contradict the previous sentence?
 
-
-Maybe, you decide.
+Recently I took up bagmaking, which is both one of the most fulfilling and most frustrating things I explored recently.
 
 In the words of Moxie Marlinspike, whom I look upto for his free mind, his adventurous
 life and definitive focus on privacy and anonymity:
@@ -24,11 +23,11 @@ life and definitive focus on privacy and anonymity:
 <br/>
 
 other trivia points about me:
-* [Nord theme](https://www.nordtheme.com/) is my absolute favorite theme! [0]
-* vim > emacs
+* I like tinkering with colorschemes. This is what my custom one currently looks like.
+  Maybe I'll clean it up a bit and release it some time... [0]
+* (n)vim > emacs
 * tabs > spaces
-* I am ~~learning~~ using [Colemak](https://colemak.com/)
 
 <br/>
 
-[0] ![Nord theme](/images/small/nord-theme.jpg)
+[0] ![](/images/theme.png)
